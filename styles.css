@@ -13,11 +13,11 @@
     width: 50%;
 }
 
-.h2--subTitle__dark {
+.h2__subTitle--dark {
     color: gray;
 }
 
-.h2--subTitle__force {
+.h2__subTitle--force {
     color: #B8860B;
 }
 
@@ -25,11 +25,11 @@
     margin-left: 10px;
 }
 
-.paragraph__dark {
+.paragraph--dark {
     color: gray
 }
 
-.paragraph__force {
+.paragraph--force {
     color: #B8860B
 }
 
@@ -45,7 +45,7 @@
     margin: 10px;
 }
 
-.container-card-button {
+.container__card--button {
     margin: 10px auto;
     width: 50%;
 }
@@ -54,12 +54,12 @@
     margin-left: 10px;
 }
 
-.container--div__force {
+.container__div--force {
     background-color: lightsteelblue;
     border: 10px solid #B8860B;
 }
 
-.container--div__dark {
+.container__div--dark {
     background-color: black;
     border: 10px solid gray;
 }
@@ -73,10 +73,10 @@
     font-weight: bold;
 }
 
-.button--div__force {
+.card__button--force {
     background-color: #008000;
 }
 
-.button--div__dark {
+.card__button--dark {
     background-color: red;
 }
